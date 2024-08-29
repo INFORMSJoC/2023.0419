@@ -6,7 +6,7 @@ This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data
-that were used in the research reported on in the paper [An algorithm for clustering with confidence-based must-link and cannot-link constraints](https://doi.org/10.1287/ijoc.2019.0934) by P. Baumann and D.S. Hochbaum. The snapshot is based on 
+that were used in the research reported on in the paper [An algorithm for clustering with confidence-based must-link and cannot-link constraints](https://doi.org/10.1287/ijoc.2023.0419) by P. Baumann and D.S. Hochbaum. The snapshot is based on 
 [this SHA](https://github.com/phil85/PCCC-Algorithm/commit/78cd345dbc6c0d3680e724b2cbeb8a74c2dc99f2) 
 in the development repository.
 
