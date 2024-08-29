@@ -67,7 +67,7 @@ The .json file of the illustrative example given in the paper reads as follows:
  "sml_proba": [0.8, 0.6], 
  "scl_proba": [0.9, 0.5]
 }
-````
+```
 
 ## Support
 
